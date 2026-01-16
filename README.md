@@ -6,6 +6,7 @@ integer, as opposed to the \[base::round()\] default to round to the
 nearest *even* integer.
 
 ## INSTALLATION
+devtools::install_github("jsscmnhn/onehour")
 
 ## EXAMPLE
 
